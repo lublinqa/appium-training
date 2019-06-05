@@ -3,10 +3,11 @@ import os
 
 from appium import webdriver
 
+# Framework is missing deviceName, appPackage and appActivity capabilities
 apk_name = ''
-device_name = 'emulator-5554'
-app_package = 'com.android.calculator2'
-app_activity = 'com.android.calculator2.Calculator'
+device_name = ''
+app_package = ''
+app_activity = ''
 
 
 @pytest.fixture(scope="class")

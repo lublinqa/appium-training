@@ -12,9 +12,3 @@ class AppiumDriver:
             el.click()
         except:
             pytest.fail('Element {} not found'.format(element_id))
-
-    def tap_digit_button(self, i):
-        try:
-            self.tap_by_id('digit_{}'.format(i))
-        except:
-            pytest.fail('Element digit{} not found'.format(i))
