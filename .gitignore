@@ -102,3 +102,20 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.cache
+*.swp
+*.pyc
+__pycache__
+/env/
+/venv/
+.idea
+/.idea/
+*.iml
+.DS_Store
+/tests/.DS_Store/
+.vscode
+/.pytest_cache/
+.python-version
+report.html
+*.apk
