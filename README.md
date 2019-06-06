@@ -10,7 +10,7 @@
 
 ### To run the project:
 1. `git clone https://github.com/lublinqa/appium-training.git appium-training`
-2. `mkdir appium-training`
+2. `cd appium-training`
 3. `virtualenv venv`
 4. `source venv/bin/activate`
 5. `pip3 install -r requirements.txt`
