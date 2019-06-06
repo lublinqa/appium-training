@@ -4,7 +4,6 @@
 - [Python3.7](https://www.python.org/downloads/)
 - [Appium Desktop](https://github.com/appium/appium-desktop/releases/)
 - [pyTest](https://docs.pytest.org/en/latest/getting-started.html)
-- [Allure](https://pypi.org/project/allure-pytest/)
 - [Virtualenv](https://virtualenv.pypa.io/en/latest/)
 
 
